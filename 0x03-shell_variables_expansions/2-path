@@ -1,0 +1,2 @@
+#!/bin/bash
+export PATH="/action" tail -n 1 
